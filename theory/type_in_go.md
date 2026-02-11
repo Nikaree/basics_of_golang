@@ -357,4 +357,4 @@ default:
     fmt.Println("другой тип")
 }
 ```
-![assertionSwitch.png](../img/assertionSwitch.png)
+![assertionSwitch.png](../memory_ptr/img/assertionSwitch.png)
