@@ -1,7 +1,7 @@
 package main
 
 import (
-	"basics/pointer_mutation/pointers"
+	"basics/memory_ptr/pointer_mutation/pointers"
 	"fmt"
 )
 

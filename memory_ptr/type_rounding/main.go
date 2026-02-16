@@ -1,7 +1,7 @@
 package main
 
 import (
-	"basics/type_rounding/rounding"
+	"basics/memory_ptr/type_rounding/rounding"
 	"fmt"
 )
 

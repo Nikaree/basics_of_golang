@@ -1,7 +1,7 @@
 package main
 
 import (
-	"basics/typed_payments/payments"
+	"basics/memory_ptr/typed_payments/payments"
 	"fmt"
 )
 

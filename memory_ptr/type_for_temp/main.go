@@ -7,7 +7,7 @@
 package main
 
 import (
-	"basics/type_for_temp/temperature"
+	"basics/memory_ptr/type_for_temp/temperature"
 	"fmt"
 )
 
