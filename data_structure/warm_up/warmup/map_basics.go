@@ -1,4 +1,4 @@
-package warm_up
+package warmup
 
 // KeyExists Возвращает true, если ключ есть в карте, иначе false.
 func KeyExists(m map[string]int, key string) bool {

@@ -1,4 +1,4 @@
-package warm_up
+package warmup
 
 // AppendUnique Возвращает новый срез с v, если его нет в nums; исходный nums не менять.
 // Важно: новый срез должен иметь собственный массив (отдельный backing-array).
